@@ -102,7 +102,6 @@ dependencies:
   - munkres=1.1.4
   - nbclassic=0.4.8
   - nbclient=0.5.13
-  - nbconvert=6.5.4
   - nbformat=5.7.0
   - ncurses=6.4
   - nest-asyncio=1.5.6
